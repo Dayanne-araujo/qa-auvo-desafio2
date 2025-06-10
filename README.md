@@ -25,12 +25,16 @@ Prova de conceito (POC) de automação para validar o fluxo de cadastro e pesqui
 
 ## 📁 Estrutura do Projeto
 
-```
-/pages       → Objetos de página com os elementos e ações de cada tela  
+/pages       → Objetos de página com os elementos e ações de cada tela:  
+- LoginPage.js  
+- ProductsPage.js  
+- ProductDetailsPage.js  
+- CartPage.js  
+- CheckoutPage.js  
+- **OverviewPage.js** ✅  
 /tests       → Scripts dos testes automatizados  
 playwright.config.js → Configuração dos testes  
-package.json e package-lock.json → Dependências e scripts  
-```
+package.json e package-lock.json → Dependências e scripts
 
 ---
 
