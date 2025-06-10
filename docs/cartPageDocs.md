@@ -15,4 +15,3 @@
 ## Scenario: Iniciar o processo de checkout
 #### When pressiona o botão "Checkout"
 #### Then deve ser redirecionado para a etapa de checkout
-S
