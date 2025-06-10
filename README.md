@@ -43,8 +43,8 @@ package.json e package-lock.json → Dependências e scripts
 ### 1. Clonar o repositório:
 
 ```bash
-git clone <link-do-repositorio>
-cd <nome-da-pasta>
+git clone https://github.com/Dayanne-araujo/qa-auvo-desafio2.git
+cd qa-auvo-desafio2
 ```
 
 ### 2. Instalar as dependências do projeto:
